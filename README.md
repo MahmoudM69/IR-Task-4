@@ -5,7 +5,6 @@ To run the program you will have to:
 	
 	1- Have Python and pip installed on your machine
 	2- Install NLTK, langdetect and arabic_reshaper using this command:
-	
 	pip install NLTK langdetect arabic_reshaper
 		
 	3- Let NLTK download its packages
