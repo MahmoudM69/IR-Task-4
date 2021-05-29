@@ -14,11 +14,13 @@ ps:
 
 	1- NLTK (Natural Language Toolkit) will not work with out downloading its packages
 	
-	2- Toggle between English Text and Arabc Text by changing "Doc1.txt" to "Doc2.txt" or the opposite In line 17
+	2- Toggle between English Text and Arabc Text by changing "Doc1.txt" to "Doc2.txt" or the opposite In line 17 in the code
 	
-	3- The Tokenization is not supported for the arabic language by NLTK only Stop Words
+	3- To sort the result from the uncomment the line 60 in the code by removing the hash mark ( # )
 	
-	4- If the letters in Arabic text is broken go to 2-
+	4- The Tokenization is not supported for the arabic language by NLTK only Stop Words
+	
+	5- If the letters in Arabic text is broken go to 2-
 
 Made by:
        
