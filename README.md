@@ -4,6 +4,7 @@ Text Normalization with Python
 To run the program you will have to:
 	
 	1- Have Python and pip installed on your machine
+	
 	2- Install NLTK, langdetect and arabic_reshaper using this command:
 	pip install NLTK langdetect arabic_reshaper
 		
@@ -12,8 +13,11 @@ To run the program you will have to:
 ps: 
 
 	1- NLTK (Natural Language Toolkit) will not work with out downloading its packages
+	
 	2- Toggle between English Text and Arabc Text by changing "Doc1.txt" to "Doc2.txt" or the opposite In line 17
+	
 	3- The Tokenization is not supported for the arabic language by NLTK only Stop Words
+	
 	4- If the letters in Arabic text is broken go to 2-
 
 Made by:
