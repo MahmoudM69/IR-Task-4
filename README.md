@@ -22,8 +22,13 @@ ps:
 	
 	5- If the letters in Arabic text is broken go to 2-
 
+____________________________
+
 Made by:
-       
+
+	* Mahmoud Moahmed A
+	* Marwan Atef A
+
 	* محمود محمد عبد العزيز
 		* قسم: معلوماتية حيوية
 		* رقم جلوس: 103
