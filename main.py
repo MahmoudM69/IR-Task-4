@@ -25,7 +25,7 @@ with open("Doc1.txt", encoding="utf-8") as D1:
     D1 = D1.read()
 print('')
 print('Your text:\r\n')
-print(D1)
+print(reshaper.reshape(D1))
 
 # Language detector
 lang = detect(D1)
