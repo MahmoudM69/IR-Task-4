@@ -23,9 +23,12 @@ reshaper = ArabicReshaper(configuration=configuration)
 # Read Doc
 with open("Doc1.txt", encoding="utf-8") as D1:
     D1 = D1.read()
+
+D1 = reshaper.reshape(D1)
+
 print('')
 print('Your text:\r\n')
-print(reshaper.reshape(D1))
+print(D1)
 
 # Language detector
 lang = detect(D1)
