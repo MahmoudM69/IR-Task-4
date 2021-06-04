@@ -10,7 +10,7 @@ To run the program you will have to:
 		
 	3- Let NLTK download its packages
 
-ps: 
+PS: 
 
 	1- NLTK (Natural Language Toolkit) will not work with out downloading its packages
 	
