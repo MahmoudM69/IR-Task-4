@@ -20,7 +20,7 @@ PS:
 	
 	4- The Tokenization is not supported for the arabic language by NLTK only Stop Words
 	
-	5- If the letters in Arabic text is broken go to 2-
+	5- If the letters in Arabic text are broken go to 2-
 
 ____________________________
 
